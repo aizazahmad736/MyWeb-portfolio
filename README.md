@@ -36,7 +36,8 @@ Coming Soon...
 
 ## 📸 Preview
 
-*Add screenshots of your portfolio here.*
+<img width="393" height="218" alt="image" src="https://github.com/user-attachments/assets/98dd5061-a4b6-4ca4-b6e7-a48e7ae02b82" />
+
 
 ## 👨‍💻 About Me
 
