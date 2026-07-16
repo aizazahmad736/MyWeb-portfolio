@@ -52,6 +52,5 @@ Hi, I'm **Aizaz Ahmad**, a Computer Science student passionate about Web Develop
 
 Please consider giving it a ⭐ on GitHub!
 
----
 
 Made with ❤️ by **Aizaz Ahmad**
